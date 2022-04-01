@@ -9,20 +9,20 @@ export default function App() {
   }
   
   return (
-    <div className="mainContainer">
+    <div className="mainContainer"> 
       <div className="dataContainer">
         <div className="header">
-        👋 Hey there!
+          👋 Hey there!
         </div>
 
         <div className="bio">
-        I'm Simon and I like full stack and web3 development!
-        </div>
+        I'm Simon. I like full stack and web3 development.
+        </div> 
 
         <button className="waveButton" onClick={wave}>
           Wave at Me
         </button>
-      </div>
+      </div>s
     </div>
   );
 }
