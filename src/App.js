@@ -22,7 +22,7 @@ export default function App() {
         <button className="waveButton" onClick={wave}>
           Wave at Me
         </button>
-      </div>s
+      </div>
     </div>
   );
 }
