@@ -30,5 +30,7 @@
   padding: 8px;
   border: 0;
   border-radius: 5px;
+  background:linear-gradient(to right, #00f260, #0575e6  )
+  /*#00f260, #0575e6 */
   
 }
